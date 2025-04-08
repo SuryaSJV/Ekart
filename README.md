@@ -302,10 +302,7 @@ Nexus Artifact: JAR uploaded to maven-snapshots
 
 ✅ Reusable, scalable DevOps pipeline
 
-👤 Author
-Chitturi Sri Jaya Venkata Surya
-AZURE DevOps Engineer | Azure, Jenkins, Docker, Kubernetes
-📧 [suryasjv139@gmail.com]
+
 
 🏁 Final Output
 Application runs in a Docker container:
