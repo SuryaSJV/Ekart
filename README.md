@@ -167,6 +167,7 @@ In `/src/main/resources/application.properties` file it is possible to change bo
 web interface url path, as well as the datasource url.
 
 
+
 # 🚀 Ekart Java Application - CI/CD Pipeline with Jenkins
 
 This project showcases a complete CI/CD pipeline for the **Ekart Java backend application** using **Jenkins**, integrating **Maven**, **SonarQube**, **OWASP Dependency Check**, **Nexus**, **Docker**, and **Docker Hub**.
