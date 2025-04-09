@@ -331,3 +331,11 @@ Container Name: ekart
 
 Exposed Port: 8070
 ```
+
+follow as below
+1.![alt text](1.jpg)
+2.![alt text](2.jpg)
+3.![alt text](3.jpg)
+4.![alt text](4.jpg)
+5.![alt text](5.jpg)
+6.![alt text](6.jpg)
